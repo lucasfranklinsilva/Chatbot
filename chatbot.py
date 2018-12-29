@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # Chat Bot Banco do Brasil Conta Corrente
+# # Chat Bot Banco Conta Corrente
 
 # ### Imports
 
@@ -92,7 +92,7 @@ def response(user_response):
 
 flag=True
 
-print("BMO: Olá, meu nome é BMO. Posso responder suas perguntas referentes a abertura de conta no banco do Brasil.")
+print("BMO: Olá, meu nome é BMO. Posso responder suas perguntas referentes a abertura de conta no banco.")
 
 while(flag==True):
     user_response = input()
